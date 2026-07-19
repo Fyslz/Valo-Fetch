@@ -16,7 +16,6 @@ if response.status_code == 200: # make sure response is 200
     keys_to_check = ["displayIcon", "displayIconSmall", "bustPortrait",
                       "fullPortrait",  "fullPortraitV2", "killfeedPortrait",
                         "minimapPortrait", "background", "role", "abilities"]
-    abilities = ["Ability1", "Ability2", "Grenade", "Ultimate", "Passive"]
 
 
 
